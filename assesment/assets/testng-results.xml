@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-01T17:15:09Z" name="Test Suite for Buildout" finished-at="2025-02-01T17:15:58Z" duration-ms="49297">
+    <groups>
+    </groups>
+    <test started-at="2025-02-01T17:15:09Z" name="Test Cases for Buildout" finished-at="2025-02-01T17:15:58Z" duration-ms="49297">
+      <class name="demo.TestCases">
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:demo.TestCases@5443d039]" started-at="2025-02-01T22:45:09Z" name="startBrowser" finished-at="2025-02-01T22:45:12Z" duration-ms="3205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="testCase01()[pri:0, instance:demo.TestCases@5443d039]" started-at="2025-02-01T22:45:12Z" name="testCase01" finished-at="2025-02-01T22:45:22Z" duration-ms="10047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase01 -->
+        <test-method signature="testCase02()[pri:0, instance:demo.TestCases@5443d039]" started-at="2025-02-01T22:45:22Z" name="testCase02" finished-at="2025-02-01T22:45:34Z" duration-ms="12389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase02 -->
+        <test-method signature="testCase03()[pri:0, instance:demo.TestCases@5443d039]" started-at="2025-02-01T22:45:34Z" name="testCase03" finished-at="2025-02-01T22:45:44Z" duration-ms="10315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase03 -->
+        <test-method signature="testCase04()[pri:0, instance:demo.TestCases@5443d039]" started-at="2025-02-01T22:45:44Z" name="testCase04" finished-at="2025-02-01T22:45:57Z" duration-ms="12604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase04 -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:demo.TestCases@5443d039]" started-at="2025-02-01T22:45:57Z" name="endTest" finished-at="2025-02-01T22:45:58Z" duration-ms="721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- demo.TestCases -->
+    </test> <!-- Test Cases for Buildout -->
+  </suite> <!-- Test Suite for Buildout -->
+</testng-results>
